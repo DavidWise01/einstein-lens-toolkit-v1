@@ -4,6 +4,6 @@ slug  : einstein-lens-toolkit-v1
 seal  : f63778b10718a5d31c1b0e0db480dfee8781db739e96f09e2246b086198a947c
 prev  : a9a55fa48c60e7740f1fa4367f25beb454a7d135d18ff8d410ff8e8a81d2c296
 link  : 02a70a6ad9004cc110b4b20ec669e9f092fe248541ffba267aaaeaae577346aa
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
